@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keir</h1>
-<h3 align="center">A data-driven professional living in London</h3>
+<h3 align="center">A data-driven professional living in London :scientist:</h3>
 
 - :man_student: Le Wagon Data Science graduate
 - 👨‍💻 My most recent project is available at [https://book-woofer.herokuapp.com](https://book-woofer.herokuapp.com)
